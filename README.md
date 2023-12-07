@@ -8,8 +8,8 @@ This project was completed while doing the Codecademy Learn Python 3 course. The
 I chose to use Python for this project to reinforce concepts I am currently learning in my Software Engineering bootcamp focused on Python.
 
 ## Intended Outcome:
-    * Three lists: 
+    - Three lists: 
         1. customers - first and last names
         2. sales - saves each transaction; enables calculation for the total daily sales
         3. thread_sold - separates thread by color and calculates quantity of each 
-    * A string output for each color of thread and the corresponding quanitity sold that day
+    - A string output for each color of thread and the corresponding quanitity sold that day
